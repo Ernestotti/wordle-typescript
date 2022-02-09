@@ -1,4 +1,4 @@
-import Word from "./Word.js";
+import Word from "../../build/lib/Word";
 import Game from "./Game.js";
 
 
